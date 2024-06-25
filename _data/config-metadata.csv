@@ -2,7 +2,7 @@ field,display_name,browse_link,external_link
 title,Name,
 creator,Creator,
 date,Date of Birth,
-description,Description,
+description,About,
 keywords,Keywords,true
 location,Place of Birth,
 latitude,Latitude
