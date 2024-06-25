@@ -5,6 +5,8 @@ custom-foot: js/table-js.html
 ---
 
 {{ content }}
+{% assign fields = site.data.config-table | map: 'display_name' %}
+
 
 <div class="table-responsive-md">
     <table id="item-table" class="table table-striped">
